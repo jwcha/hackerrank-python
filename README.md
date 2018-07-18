@@ -8,8 +8,8 @@ Solutions will be numbered and named according to the URL of the challenge.
 ---
 
 #**TABLE OF CONTENTS**
-- <pre>001.</pre> py-hello-world
-- <pre>002.</pre> py-if-else
-- <pre>003.</pre> python-division
+- <pre>001. py-hello-world</pre>
+- <pre>002. py-if-else</pre>
+- <pre>003. python-division</pre>
 
 
