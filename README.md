@@ -5,5 +5,11 @@
 My solutions for HackerRank's Python challenges.
 Solutions will be numbered and named according to the URL of the challenge.
 
+---
+
 #**TABLE OF CONTENTS**
-001. py-hello-world
+- <pre>001.</pre> py-hello-world
+- <pre>002.</pre> py-if-else
+- <pre>003.</pre> python-division
+
+
