@@ -7,7 +7,7 @@ Solutions will be numbered and named according to the URL of the challenge.
 
 ---
 
-#**TABLE OF CONTENTS**
+### **TABLE OF CONTENTS**
 - 001-py-hello-world
 - 002-py-if-else
 - 003-python-division
